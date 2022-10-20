@@ -63,7 +63,7 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Colors.blueAccent,
       ),
       body: Padding(
-      padding : const EdgeInsets.symmetric(horizontal:100, vertical: 30),
+      padding : const EdgeInsets.symmetric(horizontal:100, vertical: 40),
       child: Center(
         child: Column(
           children: <Widget>[
